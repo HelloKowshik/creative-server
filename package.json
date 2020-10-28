@@ -1,14 +1,13 @@
 {
-  "name": "creative-agency-server",
+  "name": "creative-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "start-dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-dev": "nodemon index.js"
   },
-  "author": "sarwar",
+  "author": "Kowshik",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
